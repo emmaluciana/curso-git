@@ -1,2 +1,2 @@
-# mi primer README
+# Repositorio para crear un git pull
 Curso FreeCodeCamp
