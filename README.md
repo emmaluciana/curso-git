@@ -1,2 +1,2 @@
-# effective-lamp
+# mi primer README
 Curso FreeCodeCamp
